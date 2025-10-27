@@ -4,9 +4,6 @@
 <h1 align="center">Hi, I'm Dezzy 👾</h1>
 <p align="center">
   <b>Red Teamer | Offensive Security Specialist | Adversary Simulation Enthusiast</b><br>
-  <a href="https://goredteam.net">📝 Blog</a> |
-  <a href="https://twitter.com/0xDezzy">🐦 Twitter</a> |
-  <a href="https://linkedin.com/in/0xDezzy">💼 LinkedIn</a> |
 </p>
 
 ---
